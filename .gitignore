@@ -17,6 +17,8 @@ data/raw/*
 data/processed/*
 data/external/*
 !data/*/.gitkeep
+!data/processed/*.png
+!data/processed/*.jpg
 
 # IDE
 .idea/
